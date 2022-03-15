@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+  <head>
+    <title>糯米止步，我的孩子。</title>
+    <style>
+      header,footer {display:block; clear:both; padding:5px; text-align:center; background:purple; color:white;}
+      nav {display:block; float:left; width:10%; height:50%; background:white; padding:5px;}
+      article {display:block; float:right; width:80%; height:50%; background:wheat; padding:5px;}
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>迷迷賞析</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="W5HW1.html">榮鳩斯構</a></li>
+        <li><a href="W5HW2.html">胖鯊泰瑞</a></li>
+        <li><a href="W5HW3.html">阿摩古斯</a></li>
+      </ul>
+    </nav>
+    <article>
+      <h1>介紹</h1>
+      <p>阿摩古斯(amogus)為一種新興網路用語，為知名多人線上遊戲「Among us」的名稱變體。<br>
+        此用語於2021年間變得極為熱門，經常用於各式迷迷與屎文中，透過大量曝光及出人意料的形式營造笑點。<br>
+        由於玩家操控的角色造型為一位過度簡化，只剩下雙腳與面部玻璃罩的太空人，幾乎任何事物都可以被與此聯想，比如字母A。<br>
+        與此字一同竄升起的熱門用語還有「sus(səs)」，為單詞「suspicious」的簡化，當某人張與貼阿摩古斯相關的圖文時經常可以在評論區裡看見。</p>
+    </article>
+    <footer>
+      <p><small>諾身心診所 中正大學非官方宣傳處</small></p>
+    </footer>
+  </body>
+</html>
